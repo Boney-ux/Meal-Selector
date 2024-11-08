@@ -1,0 +1,55 @@
+{
+  "meals": [
+    {
+      "name": "Breakfast",
+      "description": "Breakfast is the first meal of the day and is crucial for replenishing the body's energy levels after a night's rest. It kickstarts your metabolism and provides essential nutrients to fuel your morning activities.",
+      
+      "components": [
+        { "type": "Juices & Beverages" },        
+        { "type": "Proteins" },       
+        { "type": "Vitamins & Minerals" },        
+        { "type": "Carbohydrates" },   
+        { "type": "Healthy Fats" },   
+        { "type": "Hydration" },     
+        { "type": "Juices & Beverages" },
+        { "type": "Fruits" },    
+        { "type": "Dairy" },    
+        { "type": "Nuts & Seeds" },    
+        { "type": "Veggies" }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "description": "Lunch is a mid-day meal that replenishes energy and helps sustain your body through the afternoon. It provides essential nutrients to maintain focus and physical stamina for the remainder of the day.",
+      "components": [
+        { "type": "Proteins" },       
+        { "type": "Carbohydrates" },        
+        { "type": "Vegetables & Greens" },      
+        { "type": "Healthy Fats" },   
+        { "type": "Hydration" },       
+        { "type": "Grains" },        
+        { "type": "Soups" },       
+        { "type": "Salads" },        
+        { "type": "Dips" },     
+        { "type": "Fruits" },       
+        { "type": "Legumes" }
+      ]
+    },
+    {
+      "name": "Supper",
+      "description": "Supper, or dinner, is the last meal of the day and is essential for providing the body with the nutrients needed for overnight recovery. It should be nourishing but not too heavy, allowing for restful sleep.",
+      
+      "components": [
+        { "type": "Lean Proteins" },   
+        { "type": "Complex Carbohydrates" },     
+        { "type": "Vegetables" },        
+        { "type": "Healthy Fats" },        
+        { "type": "Light Beverages" },       
+        { "type": "Seafood" },        ,
+        { "type": "Pasta" },        ,
+        { "type": "Side Dishes" },        
+        { "type": "Herbs & Seasonings" }
+      ]
+    }
+  ]
+}
